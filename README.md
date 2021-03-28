@@ -1,6 +1,4 @@
 # TIL
-Today I Learn Repository
-
 # 本repositoryについて
 このrepositoryは、[WebDevloper_LoadMap](https://github.com/kamranahmedse/developer-roadmap)
 をもとに学習した成果を記録するためのrepositoryである。
@@ -9,7 +7,7 @@ Today I Learn Repository
 
 ## Requier for any path
 
-- [Git-version Control]()
+- [Git-version Control](https://github.com/mamorukudo0927/TIL/blob/main/Requier/git-versionControl.md)
 - [Basic Terminal Usage]()
 - [DataStore & Algorithms]()
 - [Github]()
