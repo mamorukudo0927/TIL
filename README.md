@@ -8,7 +8,7 @@
 ## Requier for any path
 
 - [Git-version Control](https://github.com/mamorukudo0927/TIL/blob/main/Requier/git-versionControl.md)
-- [Basic Terminal Usage]()
+- [Basic Terminal Usage](https://github.com/mamorukudo0927/TIL/blob/main/Requier/BasicTerminalUsage.md)
 - [DataStore & Algorithms]()
 - [Github]()
 - [License]()
